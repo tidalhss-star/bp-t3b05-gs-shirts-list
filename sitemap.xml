@@ -1,254 +1,212 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
+    <loc>https://gangseo-shirt-choice.hardcoreroom.com/about.html</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://gangseo-shirt-choice.hardcoreroom.com/blog.html</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
     <loc>https://gangseo-shirt-choice.hardcoreroom.com/</loc>
-    <lastmod>2026-06-15</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
   </url>
   <url>
-    <loc>https://gangseo-shirt-choice.hardcoreroom.com/about.html</loc>
-    <lastmod>2026-06-15</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://gangseo-shirt-choice.hardcoreroom.com/blog.html</loc>
-    <lastmod>2026-06-15</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
     <loc>https://gangseo-shirt-choice.hardcoreroom.com/posts/field_note-002-bjvh3k.html</loc>
-    <lastmod>2026-06-10</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://gangseo-shirt-choice.hardcoreroom.com/posts/juice-1.html</loc>
-    <lastmod>2026-05-24</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://gangseo-shirt-choice.hardcoreroom.com/posts/juice-2.html</loc>
-    <lastmod>2026-05-24</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://gangseo-shirt-choice.hardcoreroom.com/posts/normal-1.html</loc>
-    <lastmod>2026-05-24</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://gangseo-shirt-choice.hardcoreroom.com/posts/normal-2.html</loc>
-    <lastmod>2026-05-24</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://gangseo-shirt-choice.hardcoreroom.com/posts/normal-3.html</loc>
-    <lastmod>2026-05-24</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://gangseo-shirt-choice.hardcoreroom.com/posts/qa-001-dw0tfd.html</loc>
-    <lastmod>2026-06-15</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://gangseo-shirt-choice.hardcoreroom.com/posts/review-001-bjvh3k.html</loc>
-    <lastmod>2026-06-10</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://gangseo-shirt-choice.hardcoreroom.com/posts/review-001.html</loc>
-    <lastmod>2026-06-05</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
     <loc>https://gangseo-shirt-choice.hardcoreroom.com/posts/gemini-coverage-20260719-0305.html</loc>
-    <lastmod>2026-07-19</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
     <loc>https://gangseo-shirt-choice.hardcoreroom.com/posts/gemini-coverage-20260719-0306.html</loc>
-    <lastmod>2026-07-19</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
     <loc>https://gangseo-shirt-choice.hardcoreroom.com/posts/gemini-coverage-20260719-0307.html</loc>
-    <lastmod>2026-07-19</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
     <loc>https://gangseo-shirt-choice.hardcoreroom.com/posts/gemini-coverage-20260719-0308.html</loc>
-    <lastmod>2026-07-19</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
     <loc>https://gangseo-shirt-choice.hardcoreroom.com/posts/gemini-coverage-20260719-0309.html</loc>
-    <lastmod>2026-07-19</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
     <loc>https://gangseo-shirt-choice.hardcoreroom.com/posts/gemini-coverage-20260719-0310.html</loc>
-    <lastmod>2026-07-19</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
     <loc>https://gangseo-shirt-choice.hardcoreroom.com/posts/gemini-coverage-20260719-0311.html</loc>
-    <lastmod>2026-07-19</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
     <loc>https://gangseo-shirt-choice.hardcoreroom.com/posts/gemini-coverage-20260719-0312.html</loc>
-    <lastmod>2026-07-19</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
     <loc>https://gangseo-shirt-choice.hardcoreroom.com/posts/gemini-coverage-20260719-0313.html</loc>
-    <lastmod>2026-07-19</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
     <loc>https://gangseo-shirt-choice.hardcoreroom.com/posts/gemini-coverage-20260719-0314.html</loc>
-    <lastmod>2026-07-19</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
     <loc>https://gangseo-shirt-choice.hardcoreroom.com/posts/gemini-coverage-20260719-0315.html</loc>
-    <lastmod>2026-07-19</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
     <loc>https://gangseo-shirt-choice.hardcoreroom.com/posts/gemini-coverage-20260719-0316.html</loc>
-    <lastmod>2026-07-19</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
     <loc>https://gangseo-shirt-choice.hardcoreroom.com/posts/gemini-coverage-20260719-0317.html</loc>
-    <lastmod>2026-07-19</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
     <loc>https://gangseo-shirt-choice.hardcoreroom.com/posts/gemini-coverage-20260719-0318.html</loc>
-    <lastmod>2026-07-19</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
     <loc>https://gangseo-shirt-choice.hardcoreroom.com/posts/gemini-coverage-20260719-0319.html</loc>
-    <lastmod>2026-07-19</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
     <loc>https://gangseo-shirt-choice.hardcoreroom.com/posts/gemini-coverage-20260719-0320.html</loc>
-    <lastmod>2026-07-19</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
     <loc>https://gangseo-shirt-choice.hardcoreroom.com/posts/gemini-coverage-20260721-0371.html</loc>
-    <lastmod>2026-07-21</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
     <loc>https://gangseo-shirt-choice.hardcoreroom.com/posts/gemini-coverage-20260721-0372.html</loc>
-    <lastmod>2026-07-21</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
     <loc>https://gangseo-shirt-choice.hardcoreroom.com/posts/gemini-coverage-20260721-0373.html</loc>
-    <lastmod>2026-07-21</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
     <loc>https://gangseo-shirt-choice.hardcoreroom.com/posts/gemini-coverage-20260722-0331.html</loc>
-    <lastmod>2026-07-22</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
     <loc>https://gangseo-shirt-choice.hardcoreroom.com/posts/gemini-coverage-20260722-0332.html</loc>
-    <lastmod>2026-07-22</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
     <loc>https://gangseo-shirt-choice.hardcoreroom.com/posts/gemini-coverage-20260722-0333.html</loc>
-    <lastmod>2026-07-22</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
     <loc>https://gangseo-shirt-choice.hardcoreroom.com/posts/gemini-coverage-20260722-0334.html</loc>
-    <lastmod>2026-07-22</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
     <loc>https://gangseo-shirt-choice.hardcoreroom.com/posts/gemini-coverage-20260722-0335.html</loc>
-    <lastmod>2026-07-22</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
     <loc>https://gangseo-shirt-choice.hardcoreroom.com/posts/gemini-coverage-20260722-0336.html</loc>
-    <lastmod>2026-07-22</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
     <loc>https://gangseo-shirt-choice.hardcoreroom.com/posts/gemini-coverage-20260722-0337.html</loc>
-    <lastmod>2026-07-22</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
     <loc>https://gangseo-shirt-choice.hardcoreroom.com/posts/gemini-coverage-20260722-0338.html</loc>
-    <lastmod>2026-07-22</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
     <loc>https://gangseo-shirt-choice.hardcoreroom.com/posts/gemini-coverage-20260722-0339.html</loc>
-    <lastmod>2026-07-22</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
     <loc>https://gangseo-shirt-choice.hardcoreroom.com/posts/gemini-coverage-20260722-0340.html</loc>
-    <lastmod>2026-07-22</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
     <loc>https://gangseo-shirt-choice.hardcoreroom.com/posts/gemini-coverage-20260722-0341.html</loc>
-    <lastmod>2026-07-22</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://gangseo-shirt-choice.hardcoreroom.com/posts/juice-1.html</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://gangseo-shirt-choice.hardcoreroom.com/posts/juice-2.html</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://gangseo-shirt-choice.hardcoreroom.com/posts/normal-1.html</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://gangseo-shirt-choice.hardcoreroom.com/posts/normal-2.html</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://gangseo-shirt-choice.hardcoreroom.com/posts/normal-3.html</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://gangseo-shirt-choice.hardcoreroom.com/posts/qa-001-dw0tfd.html</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://gangseo-shirt-choice.hardcoreroom.com/posts/review-001-bjvh3k.html</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://gangseo-shirt-choice.hardcoreroom.com/posts/review-001.html</loc>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
   </url>
